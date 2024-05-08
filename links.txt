@@ -1,0 +1,8 @@
+https://storage.googleapis.com/download.tensorflow.org/data/illiad/
+["cowper.txt","derby.txt","butler.txt"]
+
+https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
+
+https://storage.googleapis.com/tf-datasets/titanic/train.csv
+
+https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
